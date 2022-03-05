@@ -16,6 +16,6 @@ Possible options,
 - 📫 How to reach us is shown at [https://cambridge-ceu.github.io/](https://cambridge-ceu.github.io/).
 - ⚡ Fun fact: Our location has been called "The Strangeways Research Laboratory".
 
-![github stats](https://github-readme-stats.vercel.app/api?username=cambridge-ceu&show_icons=true&theme=blueberry)
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=cambridge-ceu)](https://github.com/cambridge-ceu/github-readme-stats)
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
