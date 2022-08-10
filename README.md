@@ -1,6 +1,6 @@
 # cambridge-ceu 
 
-## Cardiovascular Epiemiology Unit at the University👋of Cambridge
+## Cardiovascular Epiemiology Unit at the University of Cambridge
 
 - We’re actively working on multiomics data.
 - We’re seeking collaborations on integrating research with web technologies.
