@@ -1,4 +1,4 @@
-![](logo.png)
+![](https://github.com/cambridge-ceu/.github/blob/master/profile/logo.png)
 
 ## Cardiovascular Epiemiology Unit at the University of Cambridge
 
