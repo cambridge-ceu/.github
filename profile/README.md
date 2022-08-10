@@ -1,4 +1,4 @@
-# cambridge-ceu 
+![cambridge-ceu](logo.png)
 
 ## Cardiovascular Epiemiology Unit at the University of Cambridge
 
