@@ -6,5 +6,5 @@
   - [https://cambridge-ceu.github.io/](https://cambridge-ceu.github.io/) (responsive).
   - [https://cambridge-ceu.github.io/cambridge-ceu-minima.github.io/](https://cambridge-ceu.github.io/cambridge-ceu-minima.github.io/) (simple)
 - We’re actively working on multiomics data.
-- We also seek collaborations on those research projects and on integrating research with web technologies.
+- We also seek collaborations on those research projects/integration of research with web technologies.
 - :sunglasses: Fun fact: our location has been called ***The Strangeways Research Laboratory***.
