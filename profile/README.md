@@ -7,4 +7,4 @@
   - [https://cambridge-ceu.github.io/cambridge-ceu-minima.github.io/](https://cambridge-ceu.github.io/cambridge-ceu-minima.github.io/) (simple)
 - We’re actively working on multiomics data.
 - We also seek collaborations on those research projects/integration of research with web technologies.
-- :sunglasses: Fun fact: our location has been called ***The Strangeways Research Laboratory***.
+- :sunglasses: Fun fact: our location has been called ***The Strangeways Research Laboratory***. Move to the [HLRI](https://www.cam.ac.uk/stories/heart-and-lung-research-institute) commences at the week beginning from 19 September 2022.
