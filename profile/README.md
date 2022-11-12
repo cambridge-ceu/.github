@@ -11,4 +11,7 @@
     - Iintegration of research with web technologies
 - :sunglasses: Fun fact: our location has been called ***The Strangeways Research Laboratory***.
 
-:star::star::star: Move to the [HLRI](https://www.cam.ac.uk/stories/heart-and-lung-research-institute) commences at the week beginning from 19 September 2022.
+<span style="font-size:150%;color:red;">&bigstar;</span>
+<span style="font-size:150%;color:red;">&bigstar;</span>
+<span style="font-size:150%;color:red;">&bigstar;</span>
+Move to the [HLRI](https://www.cam.ac.uk/stories/heart-and-lung-research-institute) commences at the week beginning from 19 September 2022.
