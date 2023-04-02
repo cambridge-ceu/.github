@@ -2,7 +2,7 @@
 
 ## Cardiovascular Epiemiology Unit at the University of Cambridge
 
-- This is home to our earlier experiments as well as ongoing work, which are also organised as GitHub pages <img src="https://cambridge-ceu.github.io/assets/images/qrcode-50.svg" align="right" height="250" width="250" style="vertical-align:top">
+- This is home to our earlier experiments as well as ongoing work, which are also organised as GitHub pages <img src="https://cambridge-ceu.github.io/assets/images/qrcode-50.svg" align="right" height=150 width=150 style="vertical-align:top">
   - [https://cambridge-ceu.github.io/](https://cambridge-ceu.github.io/) (responsive).
   - [https://cambridge-ceu.github.io/cambridge-ceu-minima.github.io/](https://cambridge-ceu.github.io/cambridge-ceu-minima.github.io/) (minima)
 - We are actively working on multiomics data.
