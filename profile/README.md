@@ -13,7 +13,7 @@
 
 :star::star::star:Move to the [HLRI](https://www.cam.ac.uk/stories/heart-and-lung-research-institute) commenced at the week beginning from 19 September 2022.
 
-![alt text](https://raw.githubusercontent.com/cambridge-ceu/.github/master/profile/mermaid-diagram-2024-07-20-224238.svg)
+Major repositories can also be accessed through [svg](https://raw.githubusercontent.com/cambridge-ceu/.github/master/profile/mermaid-diagram-2024-07-20-224238.svg).
 
 <details> 
 
